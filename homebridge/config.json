@@ -37,5 +37,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "image": "hassioaddons/homebridge-{arch}"
+  "image": "luodaojun/homebridge-{arch}"
 }
